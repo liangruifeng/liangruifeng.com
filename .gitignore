@@ -1,2 +1,5 @@
 node_modules
+.deploy_git
 themes
+.DS_Store
+db.json
